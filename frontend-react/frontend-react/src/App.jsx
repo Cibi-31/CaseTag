@@ -10,8 +10,7 @@ import {
 } from "react-router-dom";
 
 import "./App.css";
-import legalAiImage from "./assets/images.jpg";
-
+import legalAiImage from "./assets/images.png";
 const API_URL = "http://127.0.0.1:8000";
 
 /* =========================================================
@@ -213,7 +212,19 @@ function Home() {
 
       <main className="home-page">
         <section className="hero">
-          <div className="hero-bg"></div>
+          <div
+  className="hero-bg"
+  style={{
+    backgroundImage: `
+      linear-gradient(
+        90deg,
+        rgba(3, 24, 20, 0.95),
+        rgba(3, 24, 20, 0.3)
+      ),
+      url(${legalAiImage})
+    `,
+  }}
+/>
 
           <div className="hero-content">
             <div className="eyebrow">
@@ -299,7 +310,6 @@ function Home() {
             </div>
           </div>
 
-          <LegalVisual />
         </section>
 
         <section className="feature-strip">
