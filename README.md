@@ -78,6 +78,8 @@ CaseTag/
 
 ### Retrieved Judgments
 ![Retrieved Judgment](output/retrieved_judgement_1.png)
+<img width="766" height="514" alt="retrieved_judgement_2" src="https://github.com/user-attachments/assets/a8741b50-573c-4245-994f-62a3fda96c45" />
+
 
 ## ⚙️ Setup and Installation
 
