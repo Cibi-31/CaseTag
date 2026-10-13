@@ -65,23 +65,31 @@ CaseTag/
 ## 🖥️ Application Screenshots
 
 ### Homepage
-![CaseTag Homepage](output/homepage.png)
+![CaseTag Homepage](./output/homepage.png)
 
 ### Case Analysis
-![Case Analysis](output/case_analysis.png)
+![Case Analysis](./output/case_analysis.png)
 
 ### Legal Sections
-![Legal Sections](output/law_sections.png)
+![Legal Sections](./output/law_sections.png)
 
 ### Legal Insights
-![Legal Insights](output/legal_insight1.png)
+![Legal Insights](./output/legal_insight1.png)
 
-### Retrieved Judgments
-![Retrieved Judgment](output/retrieved_judgement_1.png)
-<img width="766" height="514" alt="retrieved_judgement_2" src="https://github.com/user-attachments/assets/a8741b50-573c-4245-994f-62a3fda96c45" />
-<img width="825" height="495" alt="retrieved_judgement_3" src="https://github.com/user-attachments/assets/f99b5c67-45f4-40bb-b12e-844247a11d6b" />
-<img width="793" height="501" alt="retrieved_judgemnt_4" src="https://github.com/user-attachments/assets/3853aacd-6373-428b-9f98-a5bece16b002" />
-<img width="814" height="524" alt="retrieved_judgemnt_5" src="https://github.com/user-attachments/assets/1a296ae7-b911-441d-898e-8c53076219d5" />
+### Retrieved Judgment 1
+![Retrieved Judgment 1](./output/retrieved_judgement_1.png)
+
+### Retrieved Judgment 2
+![Retrieved Judgment 2](./output/retrieved_judgement_2.png)
+
+### Retrieved Judgment 3
+![Retrieved Judgment 3](./output/retrieved_judgement_3.png)
+
+### Retrieved Judgment 4
+![Retrieved Judgment 4](./output/retrieved_judgemnt_4.png)
+
+### Retrieved Judgment 5
+![Retrieved Judgment 5](./output/retrieved_judgemnt_5.png)
 
 
 
