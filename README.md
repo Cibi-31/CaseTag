@@ -65,8 +65,7 @@ CaseTag/
 ## 🖥️ Application Screenshots
 
 ### Homepage
-![Uploading homepage.png…]()
-
+![CaseTag Homepage](./output/homepage.png)
 
 ### Case Analysis
 ![Case Analysis](./output/case_analysis.png)
@@ -154,8 +153,7 @@ The application also requires the relevant FAISS vector store and legal document
 Check the application's FastAPI entry point and run the appropriate command. If `main.py` exposes the FastAPI application as `app`, use:
 
 ```bash
-python -m uvicorn main:app --reload --port 8000
-
+uvicorn main:app --reload
 ```
 
 ### 7. Start the frontend
