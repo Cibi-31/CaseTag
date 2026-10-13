@@ -65,7 +65,8 @@ CaseTag/
 ## 🖥️ Application Screenshots
 
 ### Homepage
-![CaseTag Homepage](./output/homepage.png)
+![Uploading homepage.png…]()
+
 
 ### Case Analysis
 ![Case Analysis](./output/case_analysis.png)
