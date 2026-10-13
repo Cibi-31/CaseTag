@@ -65,19 +65,34 @@ CaseTag/
 ## 🖥️ Application Screenshots
 
 ### Homepage
-![CaseTag Homepage](output/homepage.png)
+![CaseTag Homepage](./output/homepage.png)
 
 ### Case Analysis
-![Case Analysis](output/case_analysis.png)
+![Case Analysis](./output/case_analysis.png)
 
 ### Legal Sections
-![Legal Sections](output/law_sections.png)
+![Legal Sections](./output/law_sections.png)
 
 ### Legal Insights
-![Legal Insights](output/legal_insight1.png)
+![Legal Insights](./output/legal_insight1.png)
 
-### Retrieved Judgments
-![Retrieved Judgment](output/retrieved_judgement_1.png)
+### Retrieved Judgment 1
+![Retrieved Judgment 1](./output/retrieved_judgement_1.png)
+
+### Retrieved Judgment 2
+![Retrieved Judgment 2](./output/retrieved_judgement_2.png)
+
+### Retrieved Judgment 3
+![Retrieved Judgment 3](./output/retrieved_judgement_3.png)
+
+### Retrieved Judgment 4
+![Retrieved Judgment 4](./output/retrieved_judgemnt_4.png)
+
+### Retrieved Judgment 5
+![Retrieved Judgment 5](./output/retrieved_judgemnt_5.png)
+
+
+
 
 ## ⚙️ Setup and Installation
 
