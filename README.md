@@ -153,7 +153,8 @@ The application also requires the relevant FAISS vector store and legal document
 Check the application's FastAPI entry point and run the appropriate command. If `main.py` exposes the FastAPI application as `app`, use:
 
 ```bash
-uvicorn main:app --reload
+python -m uvicorn main:app --reload --port 8000
+
 ```
 
 ### 7. Start the frontend
