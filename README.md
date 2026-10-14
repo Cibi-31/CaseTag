@@ -3,11 +3,11 @@
 
 CaseTag is an AI-powered legal research assistant designed to retrieve relevant Indian legal provisions and previous judgments using **Retrieval-Augmented Generation (RAG)**. It uses retrieved legal documents to generate contextual explanations that help users understand the legal provisions and precedents relevant to a case.
 
-## 🎯 Project Overview
+## Project Overview
 
 Finding relevant legal sections and previous judgments can require searching through large collections of legal documents. CaseTag aims to simplify this process by combining semantic retrieval with Large Language Model (LLM)-based explanations.
 
-## ✨ Key Features
+## Key Features
 
 - **Legal Provision Retrieval:** Retrieve relevant acts and sections based on a user's case description.
 - **Previous Judgment Retrieval:** Search for potentially relevant judgments from the available legal document collection.
@@ -15,7 +15,7 @@ Finding relevant legal sections and previous judgments can require searching thr
 - **Case Analysis:** Help users explore legal issues and supporting legal references.
 - **Web Interface:** Interact with the legal research system through a React-based frontend.
 
-## 🏗️ System Architecture
+## System Architecture
 
 1. **User Input:** The user submits a legal query or case description.
 2. **Document Processing:** Legal documents are prepared and split into manageable chunks.
@@ -24,7 +24,7 @@ Finding relevant legal sections and previous judgments can require searching thr
 5. **LLM-Based Explanation:** The language model uses retrieved context to formulate a response.
 6. **Results:** The frontend displays the retrieved legal information and explanation.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component | Technologies |
 |---|---|
@@ -36,7 +36,7 @@ Finding relevant legal sections and previous judgments can require searching thr
 | Document Processing | Python PDF-processing tools |
 | Configuration | Python environment variables |
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 CaseTag/
@@ -62,7 +62,7 @@ CaseTag/
 └── .gitignore
 ```
 
-## 🖥️ Application Screenshots
+## Application Screenshots
 
 ### Homepage
 ![CaseTag Homepage](./output/homepage.png)
@@ -94,7 +94,7 @@ CaseTag/
 
 
 
-## ⚙️ Setup and Installation
+## Setup and Installation
 
 ### Prerequisites
 
@@ -166,23 +166,23 @@ npm install
 npm run dev
 ```
 
-## 🔐 Security and Responsible Use
+## Security and Responsible Use
 
 - Store API keys in environment variables.
 - Do not commit credentials, private case records, or confidential datasets.
 - Treat generated explanations as research assistance, not a substitute for qualified legal advice.
 - Verify cited legal provisions and judgments against authoritative sources before relying on them.
 
-## 🚧 Limitations
+## Limitations
 
 The vector store and legal datasets are excluded from this repository because of their size. A complete local setup requires those resources and the required models and API configuration.
 
-## 👩‍💻 Author
+## Author
 
 **Cibiksha V**
 
 GitHub: [@Cibi-31](https://github.com/Cibi-31)
 
-## 📄 Disclaimer
+## Disclaimer
 
 CaseTag is an AI-assisted legal research project for informational and educational purposes. Its outputs may be incomplete or inaccurate and should not be treated as definitive legal advice.
